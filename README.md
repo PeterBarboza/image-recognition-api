@@ -1,6 +1,6 @@
 # Image recognition API
 
-This is a recognition API project from Erick Wendel _Aplicações Serverless na AWS com Node.js_ course.
+This is a recognition API project from Erick Wendel [Aplicações Serverless na AWS com Node.js\_](https://conteudo.erickwendel.com.br/aplicacoes-serverless-aws) course.
 
 ### Stack
 
